@@ -37,11 +37,6 @@ An AI-assisted project management application designed to help users break proje
 
 Focus: FastAPI • Database Design • AI Integration • REST APIs
 
-ParkPilot
-
-A smart parking application focused on managing parking-related workflows and integrating AI-powered functionality.
-
-Focus: React • REST APIs • Authentication • AI Integration
 
 StudentHub
 
