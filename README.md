@@ -31,14 +31,14 @@ AI/ML • Generative AI • LLM Applications • Backend System Design
 
 I build projects to strengthen my understanding of backend development, APIs, databases, cloud deployment, and AI-powered applications.
 
-AI Project Mentor
+**AI Project Mentor**
 
 An AI-assisted project management application designed to help users break projects into tasks and interact with an AI mentor.
 
 Focus: FastAPI • Database Design • AI Integration • REST APIs
 
 
-StudentHub
+**StudentHub**
 
 A web application developed during my cloud computing internship, with deployment and cloud infrastructure involving AWS services.
 
@@ -48,7 +48,7 @@ Focus: Flask • PostgreSQL • AWS • Docker • CI/CD
 
 ☁️ Internship Experience
 
-Cloud Computing Intern
+**Cloud Computing Intern**
 
 During my cloud computing internship, I worked with technologies and services including **AWS, Docker, Git, AWS CodeBuild, Amazon ECR, Amazon ECS/Fargate, and PostgreSQL.
 
