@@ -43,7 +43,7 @@ Building practical applications with Python, FastAPI, React, databases, and AI i
 ### 💻 Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,html,css" alt="Python, JavaScript, C" />
+  <img src="https://skillicons.dev/icons?i=python,js,c" alt="Python, JavaScript, C" />
 </p>
 
 ### ⚙️ Backend Development
@@ -55,13 +55,13 @@ Building practical applications with Python, FastAPI, React, databases, and AI i
 ### 🌐 MERN Stack and Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,bootstrap" alt="MongoDB, Express.js, React, Node.js, HTML, CSS, and Bootstrap" />
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,html,css, bootstrap" alt="MongoDB, Express.js, React, Node.js, HTML, CSS, and Bootstrap" />
 </p>
 
 ### 🗄️ Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql" alt="PostgreSQL, MS SQL Server and MySQL" />
+  <img src="https://skillicons.dev/icons?i=postgres,ms sql server, mysql" alt="PostgreSQL, MS SQL Server and MySQL" />
 </p>
 
 ### ☁️ Cloud, DevOps and Tools
