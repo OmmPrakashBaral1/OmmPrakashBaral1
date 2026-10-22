@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Omm Prakash Baral
 
-### 🐍 Python Backend Developer | 🌐 MERN Stack Learner | 🤖 AI Enthusiast
+### 🌐 MERN Stack Developer | 🐍 Python Backend Developer | 🤖 AI Enthusiast
 
 Building practical applications with Python, FastAPI, React, databases, and AI integration.
 
