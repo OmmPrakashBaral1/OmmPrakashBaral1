@@ -1,4 +1,4 @@
- <div align="center">
+<div align="center">
 
 # 👋 Hi, I'm Omm Prakash Baral
 
@@ -18,7 +18,9 @@ Building practical applications with Python, FastAPI, React, databases, and AI i
   </a>
 </p>
 
-[GitHub](https://github.com/OmmPrakashBaral1) · [LinkedIn](https://www.linkedin.com/in/ommprakashbaral1/) · [Email Me](mailto:ommprakashbaral77@gmail.com)
+<a href="https://github.com/OmmPrakashBaral1">GitHub</a> ·
+<a href="https://www.linkedin.com/in/ommprakashbaral1/">LinkedIn</a> ·
+<a href="mailto:ommprakashbaral77@gmail.com">Email Me</a>
 
 </div>
 
@@ -42,32 +44,33 @@ Building practical applications with Python, FastAPI, React, databases, and AI i
 
 ### 💻 Programming Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js,c" alt="Python, JavaScript, C" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,js,c&perline=8" alt="Python, JavaScript and C" />
 </p>
 
 ### ⚙️ Backend Development
 
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express" alt="FastAPI, Flask, Node.js and Express.js" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express&perline=8" alt="FastAPI, Flask, Node.js and Express.js" />
 </p>
 
 ### 🌐 MERN Stack and Frontend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,html,css, bootstrap" alt="MongoDB, Express.js, React, Node.js, HTML, CSS, and Bootstrap" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,html,css,bootstrap&perline=8" alt="MongoDB, Express.js, React, Node.js, HTML, CSS and Bootstrap" />
 </p>
 
 ### 🗄️ Databases
 
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,ms sql server, mysql" alt="PostgreSQL, MS SQL Server and MySQL" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql&perline=8" alt="PostgreSQL and MySQL" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/microsoftsqlserver.svg" width="48" height="48" alt="Microsoft SQL Server" />
 </p>
 
 ### ☁️ Cloud, DevOps and Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,azure,docker,git,github,postman,vscode" alt="AWS, Azure, Docker, Git, GitHub, Postman and VS Code" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,git,github,postman,vscode&perline=8" alt="AWS, Azure, Docker, Git, GitHub, Postman and VS Code" />
 </p>
 
 ### 🧠 Concepts and Technologies
@@ -84,7 +87,7 @@ Building practical applications with Python, FastAPI, React, databases, and AI i
       <h3 align="center">🛍️ Sellora</h3>
       <p align="center">
         <a href="https://github.com/OmmPrakashBaral1/sellora">
-          <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" alt="View Sellora" />
+          <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" alt="View Sellora project" />
         </a>
       </p>
       <p>A digital marketplace project designed for sellers to list digital products and buyers to access their purchases.</p>
@@ -155,7 +158,7 @@ Building practical applications with Python, FastAPI, React, databases, and AI i
 
 </div>
 
-**If the graph does not load:** [Open the activity graph directly](https://github-readme-activity-graph.vercel.app/graph?username=OmmPrakashBaral1). If the service is unavailable, your [GitHub profile](https://github.com/OmmPrakashBaral1) still shows your official contribution calendar.
+If the activity graph does not load, [open it directly in your browser](https://github-readme-activity-graph.vercel.app/graph?username=OmmPrakashBaral1). If the external service is unavailable, visit your [GitHub profile](https://github.com/OmmPrakashBaral1) to view your official contribution calendar.
 
 ---
 
