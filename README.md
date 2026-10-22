@@ -1,102 +1,117 @@
- <!--
-  GitHub Profile README
-  Username: OmmPrakashBaral1
--->
+ <div align="center">
 
-<div align="center">
+# 👋 Hi, I'm Omm Prakash Baral
 
-# 👋 Hey, I'm Omm Prakash Baral
+### 🐍 Python Backend Developer | 🌐 MERN Stack Learner | 🤖 AI Enthusiast
 
-### Python Backend Developer | Full-Stack Developer | AI Enthusiast
+Building practical applications with Python, FastAPI, React, databases, and AI integration.
 
-Building practical applications with **Python, FastAPI, SQL, and AI integration.**
+<p>
+  <a href="https://github.com/OmmPrakashBaral1">
+    <img src="https://komarev.com/ghpvc/?username=OmmPrakashBaral1&style=for-the-badge&color=0e75b6" alt="Profile views" />
+  </a>
+  <a href="https://github.com/OmmPrakashBaral1?tab=followers">
+    <img src="https://img.shields.io/github/followers/OmmPrakashBaral1?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers" />
+  </a>
+  <a href="https://github.com/OmmPrakashBaral1?tab=repositories">
+    <img src="https://img.shields.io/github/stars/OmmPrakashBaral1?style=for-the-badge&logo=github&label=Stars" alt="GitHub stars" />
+  </a>
+</p>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=OmmPrakashBaral1&style=for-the-badge&color=0e75b6)](https://github.com/OmmPrakashBaral1)
-[![GitHub followers](https://img.shields.io/github/followers/OmmPrakashBaral1?style=for-the-badge&logo=github&color=181717)](https://github.com/OmmPrakashBaral1?tab=followers)
-[![GitHub Stars](https://img.shields.io/github/stars/OmmPrakashBaral1?style=for-the-badge&logo=github&color=f1c40f)](https://github.com/OmmPrakashBaral1?tab=repositories)
-
-[LinkedIn](https://www.linkedin.com/) · [Email](mailto:ommprakashbaral77@gmail.com) · [Explore My Repositories](https://github.com/OmmPrakashBaral1?tab=repositories)
+[GitHub](https://github.com/OmmPrakashBaral1) · [LinkedIn](https://www.linkedin.com/in/ommprakashbaral1/) · [Email Me](mailto:ommprakashbaral77@gmail.com)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
 - 🎓 Final-year B.Tech Computer Science and Engineering student.
-- 🐍 Focused on **Python backend development** and RESTful API design.
-- ⚙️ Building APIs with FastAPI, SQLAlchemy, authentication, and database integration.
-- 🤖 Exploring AI-powered applications and LLM integration.
-- ☁️ Experienced with cloud computing fundamentals and application deployment.
-- 🔨 Currently building **Sellora**, a digital product marketplace API.
-- 🎯 Goal: Become a strong software engineer by building real-world projects and continuously improving my problem-solving skills.
+- 🐍 Focused on **Python backend development** using FastAPI, REST APIs, and SQL.
+- 🌐 Currently learning **MERN Stack Development** — MongoDB, Express.js, React, and Node.js.
+- 🤖 Exploring AI integration and LLM-powered applications.
+- ☁️ Familiar with cloud computing, Docker, Git, and application deployment.
+- 🔨 Currently building **Sellora**, a digital product marketplace.
+- 🎯 Working towards becoming a skilled software engineer by building real-world projects and strengthening my fundamentals.
+- 💬 Ask me about Python, FastAPI, REST APIs, SQL, and full-stack development.
+- 📫 Reach me at **ommprakashbaral77@gmail.com**
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Languages and Tools
 
-### Backend Development
+### 💻 Programming Languages
+
 <p>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,flask" alt="Python, FastAPI and Flask" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css" alt="Python, JavaScript, HTML and CSS" />
 </p>
 
-### Databases
+### ⚙️ Backend Development
+
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" alt="PostgreSQL, MySQL and SQLite" />
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express" alt="FastAPI, Flask, Node.js and Express.js" />
 </p>
 
-### Frontend Development
+### 🌐 MERN Stack and Frontend
+
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" alt="HTML, CSS, JavaScript, React and Bootstrap" />
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,bootstrap" alt="MongoDB, Express.js, React, Node.js and Bootstrap" />
 </p>
 
-### Cloud, DevOps & Tools
+### 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql" alt="PostgreSQL and MySQL" />
+</p>
+
+### ☁️ Cloud, DevOps and Tools
+
 <p>
   <img src="https://skillicons.dev/icons?i=aws,azure,docker,git,github,postman,vscode" alt="AWS, Azure, Docker, Git, GitHub, Postman and VS Code" />
 </p>
 
-### AI & Development Concepts
+### 🧠 Concepts and Technologies
 
 `REST APIs` · `JWT Authentication` · `Pydantic` · `SQLAlchemy` · `Ollama` · `AI Integration` · `CI/CD`
 
 ---
 
-## 💻 Featured Projects
+## 🚀 Featured Projects
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3 align="center">🛍️ Sellora</h3>
       <p align="center">
         <a href="https://github.com/OmmPrakashBaral1/sellora">
-          <img src="https://img.shields.io/badge/Explore-Repository-181717?style=for-the-badge&logo=github" alt="Explore Sellora repository" />
+          <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" alt="View Sellora" />
         </a>
       </p>
-      <p>A digital marketplace project designed to let sellers list digital products and buyers access their purchases.</p>
-      <p><strong>Stack:</strong> Python, FastAPI, SQLAlchemy, JWT, SQL</p>
+      <p>A digital marketplace project designed for sellers to list digital products and buyers to access their purchases.</p>
+      <p><strong>Technologies:</strong> Python, FastAPI, SQLAlchemy, JWT, SQL</p>
       <p><strong>Focus:</strong> Authentication, role-based access, product listings and order workflows.</p>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3 align="center">🤖 AI Project Mentor</h3>
       <p align="center">
-        <a href="https://github.com/OmmPrakashBaral1">
-          <img src="https://img.shields.io/badge/View-My%20Repositories-181717?style=for-the-badge&logo=github" alt="View repositories" />
+        <a href="https://github.com/OmmPrakashBaral1?tab=repositories">
+          <img src="https://img.shields.io/badge/Explore%20Repositories-181717?style=for-the-badge&logo=github" alt="Explore repositories" />
         </a>
       </p>
-      <p>An AI-powered project guidance application that helps users explore project ideas and receive AI-generated guidance.</p>
-      <p><strong>Stack:</strong> Python, FastAPI, React, SQL Server, Ollama</p>
+      <p>An AI-powered application designed to guide users with project ideas and AI-generated responses.</p>
+      <p><strong>Technologies:</strong> Python, FastAPI, React, SQL Server, Ollama</p>
       <p><strong>Focus:</strong> API development, data validation, database integration and AI responses.</p>
     </td>
   </tr>
   <tr>
-    <td colspan="2">
+    <td colspan="2" valign="top">
       <h3 align="center">🌐 Developer Portfolio</h3>
       <p align="center">
         <a href="https://github.com/OmmPrakashBaral1/dev-portfolio">
-          <img src="https://img.shields.io/badge/View-Portfolio%20Repository-181717?style=for-the-badge&logo=github" alt="View portfolio repository" />
+          <img src="https://img.shields.io/badge/View%20Portfolio-181717?style=for-the-badge&logo=github" alt="View developer portfolio" />
         </a>
       </p>
-      <p align="center">A personal portfolio project to showcase my skills, development work and projects.</p>
+      <p align="center">A portfolio project for presenting my technical skills and development work.</p>
     </td>
   </tr>
 </table>
@@ -107,40 +122,73 @@ Building practical applications with **Python, FastAPI, SQL, and AI integration.
 
 <div align="center">
 
-  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=OmmPrakashBaral1&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
-  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=OmmPrakashBaral1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used programming languages" />
-
-  <br/><br/>
-
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=OmmPrakashBaral1&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=OmmPrakashBaral1&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph" />
+  <a href="https://github.com/OmmPrakashBaral1">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=OmmPrakashBaral1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub statistics" />
+  </a>
+  <a href="https://github.com/OmmPrakashBaral1">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmmPrakashBaral1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used programming languages" />
+  </a>
 
 </div>
 
 ---
 
-## 🏆 Keep Building, Keep Learning
+## 🔥 Contribution Streak
 
 <div align="center">
 
-  <img src="https://img.shields.io/badge/Consistency-Build%20Every%20Day-0e75b6?style=for-the-badge" alt="Build every day" />
-  <img src="https://img.shields.io/badge/Focus-Backend%20%2B%20AI-7c3aed?style=for-the-badge" alt="Backend and AI focus" />
+  <a href="https://github.com/OmmPrakashBaral1">
+    <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=OmmPrakashBaral1&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+  </a>
+
+</div>
+
+---
+
+## 📈 Contribution Activity Graph
+
+<div align="center">
+
+  <a href="https://github.com/OmmPrakashBaral1">
+    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=OmmPrakashBaral1" alt="GitHub contribution activity graph" />
+  </a>
+
+</div>
+
+**If the graph does not load:** [Open the activity graph directly](https://github-readme-activity-graph.vercel.app/graph?username=OmmPrakashBaral1). If the service is unavailable, your [GitHub profile](https://github.com/OmmPrakashBaral1) still shows your official contribution calendar.
+
+---
+
+## 🏆 GitHub Profile Trophies
+
+<div align="center">
+
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img width="100%" src="https://github-profile-trophy.vercel.app/?username=OmmPrakashBaral1&theme=tokyonight&no-frame=true&margin-w=8&row=1&column=6" alt="GitHub profile trophies" />
+  </a>
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+  <a href="https://github.com/OmmPrakashBaral1">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/ommprakashbaral1/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:ommprakashbaral77@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 
   <br/><br/>
 
-  **Thanks for visiting my profile!** ⭐
+  ### 💡 Learn. Build. Improve. Repeat.
 
-  If you find something interesting, feel free to explore my repositories and connect with me.
-
-  *Learn. Build. Improve. Repeat.*
+  **Thanks for visiting my profile! If you like my work, consider leaving a ⭐ on a repository.**
 
 </div>
