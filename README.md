@@ -1,77 +1,43 @@
- <div align="center">
-  <h1>👋 Hi, I'm Omm Prakash Baral</h1>
-  <h3>🌐 MERN Stack Developer | 🐍 Python Backend Developer | 🤖 AI Enthusiast</h3>
-  <p>Building practical applications with Python, FastAPI, React, databases, and AI integration.</p>
-  <p>
-    <a href="https://komarev.com/ghpvc/?username=OmmPrakashBaral1">
-      <img src="https://komarev.com/ghpvc/?username=OmmPrakashBaral1&style=for-the-badge&color=0e75b6" alt="Profile views"/>
-    </a>
-    <a href="https://github.com/OmmPrakashBaral1?tab=followers">
-      <img src="https://img.shields.io/github/followers/OmmPrakashBaral1?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers"/>
-    </a>
-    <a href="https://github.com/OmmPrakashBaral1?tab=repositories">
-      <img src="https://img.shields.io/github/stars/OmmPrakashBaral1?style=for-the-badge&logo=github&label=Stars" alt="GitHub stars"/>
-    </a>
-  </p>
-  <p>
-    <a href="https://github.com/OmmPrakashBaral1">GitHub</a> ·
-    <a href="https://www.linkedin.com/in/ommprakashbaral1/">LinkedIn</a> ·
-    <a href="mailto:ommprakashbaral77@gmail.com">Email Me</a>
-  </p>
+<div align="center">
+
+# 👋 Hi, I'm Omm Prakash Baral
+
+### 🌐 MERN Stack Developer | 🐍 Python Backend Developer | 🤖 AI Enthusiast
+
+Building practical applications with Python, FastAPI, React, databases, and AI integration.
+
+[![Profile Views](https://komarev.com/ghpvc/?username=OmmPrakashBaral1&style=for-the-badge&color=0e75b6)](https://github.com/OmmPrakashBaral1)
+[![Followers](https://img.shields.io/github/followers/OmmPrakashBaral1?style=for-the-badge&logo=github&label=Followers)](https://github.com/OmmPrakashBaral1?tab=followers)
+[![Stars](https://img.shields.io/github/stars/OmmPrakashBaral1?style=for-the-badge&logo=github&label=Stars)](https://github.com/OmmPrakashBaral1?tab=repositories)
+
+[GitHub](https://github.com/OmmPrakashBaral1) · [LinkedIn](https://www.linkedin.com/in/ommprakashbaral1/) · [Email Me](mailto:ommprakashbaral77@gmail.com)
+
 </div>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 Final-year B.Tech Computer Science and Engineering student.
-- 🐍 Focused on **Python backend development** with FastAPI, REST APIs, and SQL.
-- 🌐 Learning **MERN Stack Development** — MongoDB, Express.js, React, and Node.js.
-- 🤖 Exploring AI integration and LLM-powered applications.
-- ☁️ Familiar with cloud computing, Docker, Git, and application deployment.
-- 🔨 Currently building **Sellora**, a digital product marketplace.
-- 🎯 Improving my software engineering fundamentals through practical projects.
-- 💬 Ask me about Python, FastAPI, REST APIs, SQL, and full-stack development.
-- 📫 **Email:** [ommprakashbaral77@gmail.com](mailto:ommprakashbaral77@gmail.com)
+* 🎓 **Education:** Final-year B.Tech Computer Science and Engineering student.
+* 🐍 **Backend Focus:** Building robust APIs with **Python**, **FastAPI**, REST APIs, and SQL.
+* 🌐 **Full Stack Expansion:** Actively developing with the **MERN Stack** (MongoDB, Express.js, React, Node.js).
+* 🤖 **AI Interest:** Exploring LLM applications, local AI integration, and agentic workflows.
+* ☁️ **DevOps & Tools:** Hands-on experience with Docker, AWS, Azure, Git, and CI/CD pipelines.
+* 🔨 **Current Focus:** Building **Sellora** — a digital product marketplace.
+* 📫 **Reach Me:** [ommprakashbaral77@gmail.com](mailto:ommprakashbaral77@gmail.com)
 
 ---
 
-## 🛠️ Languages and Tools
+## 🛠️ Tech Stack
 
-### 💻 Programming Languages
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,c&perline=8" alt="Python, JavaScript and C"/>
-</div>
-
-### ⚙️ Backend Development
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express&perline=8" alt="FastAPI, Flask, Node.js and Express.js"/>
-</div>
-
-### 🌐 MERN Stack and Frontend
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,html,css,bootstrap&perline=7" alt="MongoDB, Express.js, React, Node.js, HTML, CSS and Bootstrap"/>
-</div>
-
-### 🗄️ Databases
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql&perline=8" alt="PostgreSQL and MySQL"/>
-  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server"/>
-</div>
-
-### ☁️ Cloud, DevOps and Tools
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=aws,azure,docker,git,github,postman,vscode&perline=7" alt="AWS, Azure, Docker, Git, GitHub, Postman and VS Code"/>
-</div>
-
-### 🧠 Concepts and Technologies
-
-`REST APIs` · `JWT Authentication` · `Pydantic` · `SQLAlchemy` · `Ollama` · `AI Integration` · `CI/CD`
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white) |
+| **Backend** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) |
+| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![MSSQL](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) |
+| **DevOps & Tools** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
+| **Concepts** | `REST APIs` · `JWT Auth` · `Pydantic` · `SQLAlchemy` · `Ollama` · `AI Integration` · `CI/CD` |
 
 ---
 
@@ -83,34 +49,23 @@
       <h3 align="center">🛍️ Sellora</h3>
       <p align="center">
         <a href="https://github.com/OmmPrakashBaral1/sellora">
-          <img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github" alt="View Sellora"/>
+          <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github" alt="Sellora"/>
         </a>
       </p>
-      <p>A digital marketplace designed for sellers to list digital products and buyers to access their purchases.</p>
-      <p><strong>Tech:</strong> Python, FastAPI, SQLAlchemy, JWT, SQL</p>
-      <p><strong>Focus:</strong> Authentication, role-based access, product listings and order workflows.</p>
+      <p>A full-featured digital marketplace for sellers to list digital goods and buyers to execute secure purchases.</p>
+      <p><b>Tech Stack:</b> Python, FastAPI, SQLAlchemy, JWT, PostgreSQL/SQL</p>
+      <p><b>Key Features:</b> Authentication, role-based access control, product workflow management.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🤖 AI Project Mentor</h3>
       <p align="center">
-        <a href="https://github.com/OmmPrakashBaral1?tab=repositories">
-          <img src="https://img.shields.io/badge/VIEW%20REPOSITORIES-181717?style=for-the-badge&logo=github" alt="Explore repositories"/>
+        <a href="https://github.com/OmmPrakashBaral1">
+          <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github" alt="AI Project Mentor"/>
         </a>
       </p>
-      <p>An AI-powered project guidance application that provides users with project ideas and AI-generated responses.</p>
-      <p><strong>Tech:</strong> Python, FastAPI, React, SQL Server, Ollama</p>
-      <p><strong>Focus:</strong> API development, validation, database integration and AI responses.</p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <h3 align="center">🌐 Developer Portfolio</h3>
-      <p align="center">
-        <a href="https://github.com/OmmPrakashBaral1/dev-portfolio">
-          <img src="https://img.shields.io/badge/VIEW%20PORTFOLIO-181717?style=for-the-badge&logo=github" alt="View portfolio"/>
-        </a>
-      </p>
-      <p align="center">A portfolio project showcasing my technical skills and development work.</p>
+      <p>An intelligent guidance tool providing personalized project suggestions and AI-driven code feedback.</p>
+      <p><b>Tech Stack:</b> Python, FastAPI, React, SQL Server, Ollama</p>
+      <p><b>Key Features:</b> Local LLM integration, API development, request validation, structured AI responses.</p>
     </td>
   </tr>
 </table>
@@ -120,47 +75,21 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <a href="https://github.com/OmmPrakashBaral1">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=OmmPrakashBaral1&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics"/>
-  </a>
-  <a href="https://github.com/OmmPrakashBaral1">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmmPrakashBaral1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used programming languages"/>
-  </a>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=OmmPrakashBaral1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmmPrakashBaral1&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Top Languages" />
 </div>
 
----
+<br/>
 
-## 🔥 Contribution Streak
+<div align="center">
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=OmmPrakashBaral1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<br/>
 
 <div align="center">
   <a href="https://github.com/OmmPrakashBaral1">
-    <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=OmmPrakashBaral1&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
-  </a>
-</div>
-
----
-
-## 📈 Contribution Activity Graph
-
-<div align="center">
-  <a href="https://github-readme-activity-graph.vercel.app/graph?username=OmmPrakashBaral1">
-    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=OmmPrakashBaral1&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph"/>
-  </a>
-</div>
-
-<p align="center">
-  <a href="https://github.com/OmmPrakashBaral1">
-    View my official GitHub contribution calendar
-  </a>
-</p>
-
----
-
-## 🏆 GitHub Profile Trophies
-
-<div align="center">
-  <a href="https://github-profile-trophy.vercel.app/?username=OmmPrakashBaral1&theme=tokyonight">
-    <img width="100%" src="https://github-profile-trophy.vercel.app/?username=OmmPrakashBaral1&theme=tokyonight&no-frame=true&margin-w=8&row=1&column=6" alt="GitHub profile trophies"/>
+    <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=OmmPrakashBaral1&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
   </a>
 </div>
 
@@ -169,16 +98,11 @@
 ## 🤝 Connect With Me
 
 <div align="center">
-  <a href="https://github.com/OmmPrakashBaral1">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/ommprakashbaral1/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:ommprakashbaral77@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <br/><br/>
-  <h3>💡 Learn. Build. Improve. Repeat.</h3>
-  <p><strong>Thanks for visiting my profile! ⭐</strong></p>
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OmmPrakashBaral1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ommprakashbaral1/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ommprakashbaral77@gmail.com)
+
+### 💡 Learn. Build. Improve. Repeat.
+
 </div>
